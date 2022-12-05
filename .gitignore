@@ -1,5 +1,5 @@
 # ignore
-data/test_emb.csv
-data/train_emb.csv
-data/embedded_1k_reviews.csv
-data/curie.csv
+**/test_emb.csv
+**/train_emb.csv
+**/embedded_1k_reviews.csv
+**/curie.csv
