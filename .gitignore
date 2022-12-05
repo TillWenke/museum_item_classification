@@ -1,0 +1,5 @@
+# ignore
+data/test_emb.csv
+data/train_emb.csv
+data/embedded_1k_reviews.csv
+data/curie.csv
