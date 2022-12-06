@@ -1,0 +1,10 @@
+tensorflow
+pandas
+numpy
+matplotlib
+deep_translator
+wandb
+sklearn
+xgboost
+openai
+pytorch_tabnet
